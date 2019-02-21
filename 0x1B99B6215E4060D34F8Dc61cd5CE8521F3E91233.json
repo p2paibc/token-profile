@@ -1,0 +1,28 @@
+{
+  "symbol": "eaib",
+  "address": "0x1B99B6215E4060D34F8Dc61cd5CE8521F3E91233",
+  "overview": {
+    "en": "eaib is the membership badge for TokenFans Club, a user-based community managed by eaibc. It is non-divisible, not tradeable and issued only through official channels.",
+    "zh": "eaib 是 eaibc 旗下用户社群品牌「TokenFans 通粉俱乐部」的会员勋章，目前仅由官方渠道发放，不可分割，不支持交易。"
+  },
+  "email": "p2paibc@outlook.com",
+  "website": "http://www.p2paibc.com/",
+  "whitepaper": "http://www.p2paibc.com/eaibc.pdf/",
+  "state": "NORMAL",
+  "published_on": "2019-03-03",
+  "initial_price":{
+        "ETH":"0.00020 ETH",
+        "USD":"0.030 USD",
+        "BTC":"0.0000075 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/p2paibc",
+    "telegram": "https://t.me/eaibc",
+    "reddit": "",
+    "github": "https://github.com/p2paibc",
+    "facebook": "https://www.facebook.com/eaibc/",
+    "slack": "",
+    "medium": ""
+  }
+}
