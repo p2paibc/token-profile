@@ -1,0 +1,23 @@
+﻿关于易爱链（P2PAIBC）信息：
+
+ 易爱链（P2PAIBC)团队分布:
+    韩国：8F,Seongnam-daero 331beon-gil,Bundang-gu,Seongnam-si,Gyeonggi-do,Korea 
+    香港：6F，LUNG YAT HOUSE，LOWER WONG TAI SIN ESTATE，WONG TAI SIN，KOWLOON，HK
+
+易爱链（P2PAIBC)基金会
+          韩国，8F,Seongnam-daero 331beon-gil,Bundang-gu,Seongnam-si,Gyeonggi-do,Korea
+
+官方网站   www.p2paibc.com
+电报圈：   https://0.plus/P2PAIBC
+Twitter：  https://twitter.com/p2paibc
+邮箱：     p2paibc@outlook.com
+
+
+
+代币转账调用智能合约需要的 Gas limit（默认值 60000）
+
+合约地址  0xc20A98c7A9dDF17792FdA8c871863A58118f48Bb
+
+交易所：  www.nex.hk
+
+          www.block.cc
